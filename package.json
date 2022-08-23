@@ -1,0 +1,12 @@
+{
+  "name": "bangetter",
+  "version": "1.0.0",
+  "description": "Fetch Brave Search bangs and convert them to more efficient JSON",
+  "main": "index.js",
+  "author": "cukmekerb <cukmekerb@gmail.com>",
+  "license": "WTFPL",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
